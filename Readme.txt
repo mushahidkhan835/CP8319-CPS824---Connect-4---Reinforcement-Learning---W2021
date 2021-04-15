@@ -2,7 +2,7 @@
 ### Instructions ###
 
 Following libraries are needed to run the project:
-- ***Gym***
+- Gym
 - Tensorflow
 - Keras
 
